@@ -1,5 +1,5 @@
 
-# ML - Algebra : Vector, Matrix, Equations, ...
+# W02. ML - Algebra : Vector, Matrix, Equations, ...
 
 - https://www.w3schools.com/python/numpy/default.asp
 - https://www.kaggle.com/code/jhossain/introduction-to-numpy-vectors-and-matrices
