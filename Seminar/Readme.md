@@ -20,3 +20,7 @@
 - pptx (35+ slides)
 - code (demo)
 - examples (data, model, ...) 
+
+## Submit
+- Deadline: W08
+- mLearning
