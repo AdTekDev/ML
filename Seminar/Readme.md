@@ -16,6 +16,20 @@
 
 ## Topics
 
+### Supervised Learning  
+
+
+### Unsupervised Learning  
+
+
+### Semi-Supervised Learning  
+
+
+### Reinforcement Learning  
+
+
+### Processing  
+
 ## Presentation
 - pptx (35+ slides)
 - code (demo)
