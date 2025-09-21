@@ -14,21 +14,39 @@
 
 6. **Evaluation Metrics** – Indicate which performance metrics are commonly used to assess the algorithm (e.g., accuracy, RMSE, AUC).
 
-## Topics
+## Topics - 2025.09  
+```
+ Supervised Learning  
+ Unsupervised Learning  
+ Semi-Supervised Learning  
+ Reinforcement Learning  
+ Processing
+ Model Tuning
+```
+- **Su.Ens.01** - Ensemble methods : Random Forest, Bagging  
+- **Su.Ens.02** - Ensemble methods : Gradient Boosting (XGBoost, LightGBM, CatBoost)  
 
-### Supervised Learning  
+- **Su.Reg.03** - Logistic Regression  
+- **Su.Reg.04** - Ridge / Lasso Regression  
+
+- **Su.05** - QDA (Quadratic Discriminant Analysis) 
+
+- **Un.Clu.06** - DBSCAN (Density-Based Spatial Clustering of Applications with Noise)  
+- **Un.07** - t-SNE (t-distributed Stochastic Neighbor Embedding)  
+- **Un.08** - ICA (Independent Component Analysis)  
+- **Un.Ass.09** - Apriori Algorithm  
+
+- **Se.10** - Graph-based semi-supervised learning (Label Propagation, Label Spreading)  
+
+- **Re.11** - Q-Learning
+- **Re.12** - SARSA  
+
+- **Tun.13** - GridSearchCV, RandomizedSearchCV, Bayesian Optimization.
 
 
-### Unsupervised Learning  
 
 
-### Semi-Supervised Learning  
 
-
-### Reinforcement Learning  
-
-
-### Processing  
 
 ## Presentation
 - pptx (35+ slides)
