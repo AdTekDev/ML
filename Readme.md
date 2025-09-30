@@ -17,4 +17,6 @@
 - https://www.coursera.org/learn/machine-learning
 - https://machinelearningmastery.com/start-here/#python
 - https://www.kaggle.com/learn/intro-to-machine-learning
-- 
+
+## Drive
+- https://drive.google.com/drive/folders/17rSYtByf06RJ_7Gl4wwf_PHIiUo_41Yn?usp=sharing 
