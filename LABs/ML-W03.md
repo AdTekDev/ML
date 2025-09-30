@@ -1,5 +1,5 @@
 
-# ML-W03. Error / Confusion Matrix 
+# ML.W03. Error / Confusion Matrix 
 
 - https://www.geeksforgeeks.org/machine-learning/confusion-matrix-machine-learning/
 - https://www.w3schools.com/python/python_ml_confusion_matrix.asp
