@@ -20,3 +20,4 @@
 - https://towardsdatascience.com/decision-trees-explained-d7678c43a59e/
 - https://phamdinhkhanh.github.io/deepai-book/ch_ml/DecisionTree.html
 - https://machinelearningcoban.com/tabml_book/ch_model/decision_tree.html
+- https://carpentries-incubator.github.io/machine-learning-trees-python/02-decision-tree/index.html
