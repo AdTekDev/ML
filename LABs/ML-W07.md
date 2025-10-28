@@ -21,11 +21,6 @@ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
 $$
   
 
-<div style="font-size:200%">
-$$
-P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
-$$
-</div>
 
 
 
