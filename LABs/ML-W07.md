@@ -42,9 +42,9 @@ Suppose we have data on whether a student passes an exam based on whether they s
 
 Compute:
 
-1. $$(P(\text{Pass = Yes})) and (P(\text{Pass = No}))$$ — *prior probabilities*
-2. $$(P(\text{Study = Yes} | \text{Pass = Yes}))$$ — *conditional probability*
-3. $$(P(\text{Pass = Yes} | \text{Study = Yes}))$$ — *posterior probability using Bayes’ theorem*
+1. $$P(\text{Pass = Yes}))  and  (P(\text{Pass = No})$$ — *prior probabilities*
+2. $$P(\text{Study = Yes} | \text{Pass = Yes})$$ — *conditional probability*
+3. $$P(\text{Pass = Yes} | \text{Study = Yes})$$ — *posterior probability using Bayes’ theorem*
 
 #### **Deliverables**
 
