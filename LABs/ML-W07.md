@@ -16,9 +16,10 @@ Given a dataset with categorical variables, you must:
 
 #### **Formula Reminder**
 
-[
+$$
 P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
-]
+$$
+
 
 Where:
 
