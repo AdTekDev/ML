@@ -21,6 +21,9 @@ P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
 $$
 
 
+{\Huge $P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$}
+
+
 Where:
 
 * (P(A)): Prior probability of class (A)
