@@ -25,6 +25,11 @@ $$
 
 ---
 
+$$
+P(Hypothesis|Evidence) = P(Evidence|Hypothesis) \cdot \frac{P(Hypothesis)}{P(Evidence)}
+$$
+
+---
 
 $$
 \text{Posterior} = \frac{\text{Likelihood} \times \text{Prior}}{\text{Evidence}}
