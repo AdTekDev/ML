@@ -19,9 +19,14 @@ Given a dataset with categorical variables, you must:
 $$
 P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
 $$
+  
 
+<div style="font-size:200%">
+$$
+P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}
+$$
+</div>
 
-{\Huge $P(A|B) = \frac{P(B|A) \cdot P(A)}{P(B)}$}
 
 
 Where:
