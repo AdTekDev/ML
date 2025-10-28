@@ -1,7 +1,6 @@
 
 # ML.W07.01  
 
-Dưới đây là **đề bài tiếng Anh** dành cho sinh viên môn *Machine Learning* — yêu cầu họ **tính các xác suất tiên đề (prior probabilities)** theo **công thức Bayes**:
 
 ---
 
